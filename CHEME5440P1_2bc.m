@@ -5,7 +5,7 @@
 %This code calls the function compute.m that runs the whole simulation at
     %every time step for given parameters. Creates s array that gives the
     %sensitivity of each parameter. This s array is integrated to create a 
-    %time averaged sensitivty array contained every paramter
+    %time averaged sensitivity array contained every paramter
     %and this undergoes SVD to yield the U array.
 %--------------------------------------------------
 %Begin my calculating sensitivity for each phase for each parameter
